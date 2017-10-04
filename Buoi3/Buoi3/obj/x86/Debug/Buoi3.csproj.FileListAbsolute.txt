@@ -1,0 +1,9 @@
+D:\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+D:\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+D:\Buoi3\Buoi3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Buoi3\Buoi3\obj\x86\Debug\Buoi3.Form1.resources
+D:\Buoi3\Buoi3\obj\x86\Debug\Buoi3.Properties.Resources.resources
+D:\Buoi3\Buoi3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Buoi3\Buoi3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Buoi3\Buoi3\obj\x86\Debug\Buoi3.exe
+D:\Buoi3\Buoi3\obj\x86\Debug\Buoi3.pdb
